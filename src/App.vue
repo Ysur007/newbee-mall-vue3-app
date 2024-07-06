@@ -10,7 +10,7 @@
 
 <template>
   <div id="app">
-    <RouterView></RouterView>
+    <RouterView />
   </div>
 </template>
 
